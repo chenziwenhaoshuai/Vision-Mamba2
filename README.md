@@ -3,8 +3,8 @@ Vision Mamba 2: More Efficient Visual Representation Learning with State Space D
 | Dataset | model | date | epoch | top1 | top5 | Checkpoint |
 |-------|-------|-------|-------|-------|-------|-------|
 | ImageNet 1k | DeiT-tiny(baseline) | - | 300 | 72.2 | 91.1 | |
-| ImageNet 1k | (ViM-tiny)[https://github.com/hustvl/Vim] (baseline) | - | 300 | 76.1 | 93.0 |  |
-| ImageNet 1k | ViM2-tiny | - | 0(training) | - | - |  |
+| ImageNet 1k | [Vim-tiny](https://github.com/hustvl/Vim) (baseline) | - | 300 | 76.1 | 93.0 |  |
+| ImageNet 1k | Vim2-tiny | - | 0(training) | - | - |  |
 # News
 ## 2024.6.11
 We fixed some bugs, the base code is based on Vim and Mamba2, we will update the latest experimental results later.
